@@ -25,7 +25,7 @@ i.fa-check  {
 .header {
   padding: 50px 50px 0px 50px;
   height: 215px;
-  background-color: #445162 ;
+  background-color: #445162;
   color: white;
 }
 
@@ -44,5 +44,31 @@ i.fa-check  {
   height: 170px;
   background-color: #fff;
   float: right;
-  margin-top: -200px;
+  margin-top: -195px;
+}
+
+.grey__box {
+  width: 350px;
+  height: 200px;
+  background-color: #445162;
+  float: right;
+  margin-top: -195px;
+}
+
+.about__product {
+  padding: 15px 50px 0px 50px;
+  height: 280px;
+  background-color: #f9f9f9;
+  color: #445162;
+}
+
+.about__product_name {
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.about__text {
+  width: 570px;
+  font-size: 14px;
+  line-height: 1.5;
 }
