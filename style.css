@@ -115,3 +115,56 @@ i.w {
   margin-left: 485px;
   margin-top: -255px;
 }
+
+.scrinshots {
+  padding: 15px 45px 0px 50px;
+  height: 200px;
+  background-color: #fff;
+  color: #445162;
+
+}
+.scrinshots2 {
+  padding: 15px 45px 0px 50px;
+  height: 165px;
+  background-color: #fff;
+  color: #445162;
+
+}
+.scrinshots__name {
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+}
+
+.grey__box_1 {
+  width: 160px;
+  height: 120px;
+  background-color: #445162;
+  float: left;
+  margin-right: 10px;
+}
+
+.box__head-1 {
+  font-weight: normal;
+  font-size: 20px;
+  margin: -4px 0;
+}
+
+.box__text-1 {
+  font-size: 14px;
+  line-height: 1.5;
+  width: 470px;
+}
+
+.scri__float {
+  float: left;
+  margin-right: 5px;
+}
+
+.box__text-2 {
+  width: 300px;
+  float: right;
+  font-size: 14px;
+  margin-right: 20px;
+  line-height: 1.5;
+}
