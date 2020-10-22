@@ -21,11 +21,25 @@ i.fa-check  {
   margin: 0 5px 0 -35px;
 }
 
+i.fa-skype {
+  font-size: 24px;
+  display: block;
+  float: left;
+  margin: -5px 5px 0 0;
+}
+
 i.fa-plus-square {
   font-size: 30px;
   color: #445162;
   margin: 3px 0px 0px -40px;
   float: left;
+}
+
+i .iconify {
+  display: block;
+  float: left;
+  margin: 0 5px 0 0;
+  font-size: 22px;
 }
 
 .pluses__product li {
@@ -51,6 +65,11 @@ i.w {
 }
 .premium h1 {
   margin-bottom: 16px;
+}
+
+.contact__links a {
+  text-decoration: none;
+  color: #FFF;
 }
 
 .main {
@@ -272,7 +291,7 @@ i.w {
   font-weight: normal;
   font-size: 21px;
   text-align: center;
-  margin-bottom: 10px;;
+  margin-bottom: 10px;
 }
 
 .tariff__price {
@@ -307,4 +326,120 @@ i.w {
 
 .left__space {
   margin-left: 5px;
+}
+
+.contacts {
+  padding: 20px 50px 0px 50px;
+  height: 400px;
+  background-color: #445162;
+  color: #FFF;
+}
+
+.contacts__name {
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  padding-left: 0;
+}
+
+.input__data,
+.contact__links {
+  float: left;
+}
+
+.input__data {
+  margin-left: 150px;
+  height: 200px;
+  width: 400px;
+}
+
+.contact__links {
+  width: 300px;
+  height: 200px;
+  margin-left: 40px;
+}
+
+.contacts__input {
+  width: 100%;
+  border-radius: 5px;
+  color: #445162;
+  border: 0;
+  padding: 9px 0;
+  margin-bottom: 20px;
+}
+
+.contacts__input-text {
+  color: #445162;
+  font-family: "Arial", sans-serif;
+  border-radius: 5px;
+  padding: 9px 0;
+}
+
+.contacts_button {
+  margin-top: 14px;
+  color: #445162;
+  background-color: #FFF;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 0;
+  padding: 8px 0;
+  width: 110px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.skype {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 13px;
+  display: block;
+  margin-top: 5px;
+}
+
+.icq,
+.email {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 13px;
+}
+
+.iconify {
+  font-size: 24px;
+  display: block;
+  float: left;
+  margin: -5px 5px 0 0;
+}
+
+.at {
+  font-size: 22px;
+  display: block;
+  float: left;
+  margin: -2px 5px 0 0;
+}
+
+.phone {
+  font-style: normal;
+  font-size: 13px;
+}
+
+.twitter,
+.facebook,
+.linkedin,
+.google {
+  font-size: 34px;
+}
+
+.youtube {
+  display: block;
+  margin: -10px 0 0 -5px;
+  font-size: 44px;
+}
+
+.made__by {
+   margin: 0;
+   padding: 5px 0;
+   font-size: 12px;
+   text-align: center;
 }
